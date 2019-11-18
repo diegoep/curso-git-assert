@@ -1,4 +1,0 @@
-Projeto=Repositório Git Exemplo
-Autor=Diego
-Local=Laboratório de Redes Convergentes
-Horário=18:00 às 22:00

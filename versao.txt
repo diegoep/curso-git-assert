@@ -1,2 +1,3 @@
 Projeto=Repositório Git Exemplo
 Autor=Diego
+Local=Laboratório de Redes Convergentes

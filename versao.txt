@@ -1,0 +1,2 @@
+Projeto=Repositório Git Exemplo
+Autor=Diego

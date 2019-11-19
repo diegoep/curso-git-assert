@@ -1,0 +1,1 @@
+print("Bem-vindos à minha aplicação experimental")

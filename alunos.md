@@ -6,4 +6,4 @@
 * Diego Frazão
 * Ângela Márcia Ramos de Oliveira - angela.oliveira.rcc@gmail.com
 * Jonnathan James -- jameslrocha@gmail.com
-* 
+* Edson Luis Vieira de Almeida - edson.l.v.almeida@outlook.com 
